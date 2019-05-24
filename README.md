@@ -25,7 +25,7 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 ```
 COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 ├── DÚVIDAS
-├── Sumário
+├── SUMÁRIO
 │   ├── 1.Aspectos Legais de Computação Forense
 │   │	├── Conteúdo 
 │   │	├── Livros
@@ -94,7 +94,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 └── Principais nomes da forense no Brasil (nome, url currículo, breve de atuação)
 ```
 
-## Sumário
+## SUMÁRIO
 > Conteúdos legais para estudar para computação forense:
 
    1) [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
