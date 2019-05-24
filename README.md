@@ -88,9 +88,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 │   ├── Vídeos
 │   |── Cursos
 │   └── Notícias
-├── LISTA DE PERITOS (nome, cidade/estado, url currículo, breve de atuação)
 ├── EMPRESAS PRIVADAS (Lista de empresas que contratam e podemos oferecer serviços de perícia)
 ├── EMPRESAS PÚBLICAS (Lista de empresas que contratam e podemos oferecer serviços de perícia)
+├── LISTA DE PERITOS (nome, cidade/estado, url currículo, breve de atuação)
 ├── PRINCIPAIS NOMES DA FORENSE NO BRASIL (nome, url currículo, breve de atuação)
 └── COLABORADORES (Pessoas que contribuem e participam do projeto ativamente)
 ```
