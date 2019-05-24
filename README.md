@@ -20,43 +20,62 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 * **O que é um Perito não oficial ou Ad Hoc?** Na falta de perito oficial, o que é comum dado a demanda, a perícia poderá ser realizada por dois peritos criminais do tipo ad hoc, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada à natureza da perícia. Os peritos não oficiais, cidadão comuns, ditos ad hoc, prestarão o compromisso de bem e fielmente desempenharem o encargo, nomeados pelo juiz criminal, promotor de justiça ou delegado de polícia. * [Mais informações](https://roteirodepericias.com.br/2018/11/23/pericia-criminal-realizada-por-perito-nao-oficial-perito-ad-hoc/)
 
 
+* **Outras questões...**
 
 ## Sumário
 > Conteúdos legais para estudar para computação forense:
 
-   * [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
+   1) [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
 
-   * [Criminalística e Computação Forense](#CriminalisticaeComputacaoForense)
+   2) [Criminalística e Computação Forense](#CriminalisticaeComputacaoForense)
 
-   * [Tópicos em Sistemas Operacionais](#TopicosemSistemasOperacionais)
+   3) [Tópicos em Sistemas Operacionais](#TopicosemSistemasOperacionais)
 
-   * [Análise Forense do Sistema Operacional Windows](#AnaliseForensedoSistemaOperacionalWindows)
+   4) [Análise Forense do Sistema Operacional Windows](#AnaliseForensedoSistemaOperacionalWindows)
 
-   * [Análise de Tráfego de Pacotes](#AnalisedeTrafegodePacotes)
+   5) [Análise de Tráfego de Pacotes](#AnalisedeTrafegodePacotes)
 
-   * [Análise Forense do Sistema Operacional LINUX](#AnaliseForensedoSistemaOperacionalLINUX)
+   6) [Análise Forense do Sistema Operacional LINUX](#AnaliseForensedoSistemaOperacionalLINUX)
 
-   * [Análise de Mídias Utilizando Ferramenta Forense FTK](#AnalisedeMidiasUtilizandoFerramentaForenseFTK)
+   7) [Análise de Mídias Utilizando Ferramenta Forense FTK](#AnalisedeMidiasUtilizandoFerramentaForenseFTK)
 
-   * [Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager](#AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager)
+   8) [Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager](#AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager)
 
-   * [Processamento Forense de Imagens](#ProcessamentoForensedeImagens)
+   9) [Processamento Forense de Imagens](#ProcessamentoForensedeImagens)
 
-   * [Criptografia e Criptoanálise](#CriptografiaeCriptoanalise)
+   10) [Criptografia e Criptoanálise](#CriptografiaeCriptoanalise)
 
-   * [Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel](#AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel)
+   11) [Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel](#AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel)
 
-   * [Análise de Local na Rede Mundial](#AnalisedeLocalnaRedeMundial)
+   12) [Análise de Local na Rede Mundial](#AnalisedeLocalnaRedeMundial)
 
-   * [Análise de Malware](#AnalisedeMalware)
+   13) [Análise de Malware](#AnalisedeMalware)
 
-   * [Engenharia Reversa](#EngenhariaReversa)
+   14) [Engenharia Reversa](#EngenhariaReversa)
+   
+   *  [Sites, Podcasts, Webinars, Vídeos e Cursos](#sitesPodcastWebnarsVideosECursos)
+---------------------------------------------------
 
-=================================================
-* **Outras questões...**
 
-## Sites, Podcasts, Webinars, Vídeos e Cursos
+ <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>
+ <h3 id="CriminalisticaeComputacaoForense">2) Criminalística e Computação Forense</h3>
+ <h3 id="TopicosemSistemasOperacionais">3) Tópicos em Sistemas Operacionais</h3>
+ <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>
+ <h3 id="AnalisedeTrafegodePacotes">5) Análise de Tráfego de Pacotes</h3>
+ <h3 id="AnaliseForensedoSistemaOperacionalLINUX">6) Análise Forense do Sistema Operacional LINUX</h3>
+ <h3 id="AnalisedeMidiasUtilizandoFerramentaForenseFTK">7) Análise de Mídias Utilizando Ferramenta Forense FTK</h3>
+ <h3 id="AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager">8) Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager</h3>
+ <h3 id="ProcessamentoForensedeImagens">9) Processamento Forense de Imagens</h3>
+ <h3 id="CriptografiaeCriptoanalise">10) Criptografia e Criptoanálise</h3>
+ <h3 id="AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel">11) Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel</h3>
+ <h3 id="AnalisedeLocalnaRedeMundial">12) Análise de Local na Rede Mundial</h3>
+ <h3 id="AnalisedeMalware">13) Análise de Malware</h3>
+ <h3 id="EngenhariaReversa">14) Engenharia Reversa</h3>
+ 
+---------------------------------------------------------------------
+## 
 
+<h3 id="sitesPodcastWebnarsVideosECursos">Sites, Podcasts, Webinars, Vídeos e Cursos</h3>
 * **Sites**
 
 * **Podcasts**
@@ -69,24 +88,7 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 
 * **Cursos**
 
- <h3 id="AspectosLegaisdeComputacaoForense">Aspectos Legais de Computação Forense</h3>
- <h3 id="CriminalisticaeComputacaoForense">Criminalística e Computação Forense</h3>
- <h3 id="TopicosemSistemasOperacionais">Tópicos em Sistemas Operacionais</h3>
- <h3 id="AnaliseForensedoSistemaOperacionalWindows">Análise Forense do Sistema Operacional Windows</h3>
- <h3 id="AnalisedeTrafegodePacotes">Análise de Tráfego de Pacotes</h3>
- <h3 id="AnaliseForensedoSistemaOperacionalLINUX">Análise Forense do Sistema Operacional LINUX</h3>
- <h3 id="AnalisedeMidiasUtilizandoFerramentaForenseFTK">Análise de Mídias Utilizando Ferramenta Forense FTK</h3>
- <h3 id="AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager">Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager</h3>
- <h3 id="ProcessamentoForensedeImagens">Processamento Forense de Imagens</h3>
- <h3 id="CriptografiaeCriptoanalise">Criptografia e Criptoanálise</h3>
- <h3 id="AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel">Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel</h3>
- <h3 id="AnalisedeLocalnaRedeMundial">Análise de Local na Rede Mundial</h3>
- <h3 id="AnalisedeMalware">Análise de Malware</h3>
- <h3 id="EngenhariaReversa">Engenharia Reversa</h3>
- 
-
-
-
+------------------------------------------------------------------------
 
 
 
