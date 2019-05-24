@@ -87,7 +87,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 │   ├── Eventos (Online, Prensencial, Webinars)
 │   ├── Vídeos
 │   |── Cursos
-│   ├── Cursos
 │   └── Notícias
 ├── Lista de Peritos (nome, cidade/estado, url currículo, breve de atuação)
 ├── Empresas Privadas (Lista de empresas que contratam e podemos oferecer serviços de perícia)
