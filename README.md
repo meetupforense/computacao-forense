@@ -11,13 +11,13 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 * **O que é a Computação Forense?** Computação forense (também conhecida como ciência forense computacional) é um ramo da ciência forense digital onde são examinadas as evidências encontradas em computadores e em mídias de armazenamento digital. O objetivo da computação forense é examinar a mídia digital de uma maneira forense, com o propósito de identificar, preservar, recuperar, analisar e apresentar fatos e opiniões sobre a informação digital.
 
 
-* **O que faz um Perito em Informática?** Importante na investigação de fatos passados utilizando conhecimentos de informática para buscar elucida-los acerca da sua materialidade e apurar a autoria de incidentes cometidos em ambientes computacionais e de uso da tecnologia. * [Mais informações](https://josemilagre.com.br/blog/2017/07/31/a-profissao-do-futuro-como-ser-um-perito-digital-ou-perito-em-informatica-e-iniciar-na-carreira-2017/)
+* **O que faz um Perito em Informática?** Importante na investigação de fatos passados utilizando conhecimentos de informática para buscar elucida-los acerca da sua materialidade e apurar a autoria de incidentes cometidos em ambientes computacionais e de uso da tecnologia.  [Mais informações](https://josemilagre.com.br/blog/2017/07/31/a-profissao-do-futuro-como-ser-um-perito-digital-ou-perito-em-informatica-e-iniciar-na-carreira-2017/)
 
 
-* **O que é um Perito Judicial?**  Trabalha nas varas cíveis das Justiça Estadual e Federal e nas varas do trabalho da Justiça do Trabalho sendo o especialista que opina sobre questões que lhe são submetidas pelas partes ou pelo juiz, a fim de esclarecer fatos que auxiliem o julgador a formar sua convicção.* [Mais informações](https://www.apejesp.com.br/paginas.aspx?id=50) 
+* **O que é um Perito Judicial?**  Trabalha nas varas cíveis das Justiça Estadual e Federal e nas varas do trabalho da Justiça do Trabalho sendo o especialista que opina sobre questões que lhe são submetidas pelas partes ou pelo juiz, a fim de esclarecer fatos que auxiliem o julgador a formar sua convicção. [Mais informações](https://www.apejesp.com.br/paginas.aspx?id=50) 
 
 
-* **O que é um Perito não oficial ou Ad Hoc?** Na falta de perito oficial, o que é comum dado a demanda, a perícia poderá ser realizada por dois peritos criminais do tipo ad hoc, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada à natureza da perícia. Os peritos não oficiais, cidadão comuns, ditos ad hoc, prestarão o compromisso de bem e fielmente desempenharem o encargo, nomeados pelo juiz criminal, promotor de justiça ou delegado de polícia. * [Mais informações](https://roteirodepericias.com.br/2018/11/23/pericia-criminal-realizada-por-perito-nao-oficial-perito-ad-hoc/)
+* **O que é um Perito não oficial ou Ad Hoc?** Na falta de perito oficial, o que é comum dado a demanda, a perícia poderá ser realizada por dois peritos criminais do tipo ad hoc, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada à natureza da perícia. Os peritos não oficiais, cidadão comuns, ditos ad hoc, prestarão o compromisso de bem e fielmente desempenharem o encargo, nomeados pelo juiz criminal, promotor de justiça ou delegado de polícia.  [Mais informações](https://roteirodepericias.com.br/2018/11/23/pericia-criminal-realizada-por-perito-nao-oficial-perito-ad-hoc/)
 
 
 * **Outras questões...**
@@ -96,7 +96,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 ```
 
 ## SUMÁRIO
-> Conteúdos legais para estudar para computação forense:
 
    1) [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
 
@@ -131,6 +130,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 
 
  <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>
+    As leis são grande aliadas para os profissionais de computação forense para embasar
  <h3 id="CriminalisticaeComputacaoForense">2) Criminalística e Computação Forense</h3>
  <h3 id="TopicosemSistemasOperacionais">3) Tópicos em Sistemas Operacionais</h3>
  <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>
