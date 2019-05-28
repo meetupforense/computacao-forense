@@ -299,8 +299,14 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Lista de Sites
  
    * [Segurança Legal](https://www.segurancalegal.com/)
- 
- 
+   
+   
+ <h3 id="Podcasts"> Podcasts</h3>
+ Lista de Podcasts 
+  
+   * [Segurança Legal](https://www.segurancalegal.com/)
+   
+   
  <h3 id="Eventos"> Eventos</h3>
  Lista de Eventos Online, Prensencial, Webinars e outros...
  
