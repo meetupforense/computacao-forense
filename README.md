@@ -96,7 +96,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 ```
 
 ## SUMÁRIO
-> Conteúdos legais para estudar para computação forense:
 
    1) [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
 
@@ -126,37 +125,40 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 
    14) [Engenharia Reversa](#EngenhariaReversa)
    
-       [Sites](#Sites)
+    *  [Sites](#Sites)
    
-       [Podcasts](#Podcasts)
+    *  [Podcasts](#Podcasts)
    
-       [Eventos](#Eventos)
+    *  [Eventos](#Eventos)
    
-       [Videos](#Videos)
+    *  [Videos](#Videos)
    
-       [Cursos](#Cursos)
+    *  [Cursos](#Cursos)
    
-       [Noticias](#Noticias)
+    *  [Noticias](#Noticias)
              
    
 ## [EMPRESAS PRIVADAS](#EmpresasPrivadas)  
    
-## EMPRESAS PÚBLICAS(#EmpresasPublicas) 
+## [EMPRESAS PÚBLICAS](#EmpresasPublicas) 
 
-## LISTA DE PERITOS(#ListaDePeritos)
+## [LISTA DE PERITOS](#ListaDePeritos)
 
-## PRINCIPAIS NOMES DA FORENSE NO BRASIL(#PrincipaisNome)
+## [PRINCIPAIS NOMES DA FORENSE NO BRASIL](#PrincipaisNome)
 
-## COLABORADORES(#Colaboradores)
+## [COLABORADORES](#Colaboradores)
    
    
 ---------------------------------------------------
 
 
  <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>
- * **Conteúdo**
- * **Livros**
- * **Cursos**
+ * Conteúdo:
+ 
+ * Livros:
+ 
+ * Cursos:
+ 
  
  <h3 id="CriminalisticaeComputacaoForense">2) Criminalística e Computação Forense</h3>
  * **Conteúdo**
