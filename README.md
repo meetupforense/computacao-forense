@@ -156,7 +156,10 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Aspectos Legais de Computação Forense
  
  * Conteúdo:
- 
+   * [lei dos crimes informáticos](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
+   * [Marco civil da internet](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)
+   * [Código de Processo Civil de 2015](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12737.htm)
+   * [Lei de acesso à informação](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
    * [Crimes cibernéticos e invasão de privacidade à luz da lei Carolina Dieckmann](https://jus.com.br/artigos/61325/crimes-ciberneticos-e-invasao-de-privacidade-a-luz-da-lei-carolina-dieckmann)
  
  
@@ -173,7 +176,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Criminalística e Computação Forense
  
  * Conteúdo:
- 
+   * [Criminalística](http://www.ic.pr.gov.br/modules/conteudo/conteudo.php?conteudo=15)
  * Livros:
  
  * Cursos:
@@ -183,17 +186,18 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Tópicos em Sistemas Operacionais
  
  * Conteúdo:
- 
+   * [Sistema de Arquivos](http://www.ppgia.pucpr.br/~laplima/ensino/so/materia/04_arquivos.html)
  * Livros:
  
  * Cursos:
- 
+   * [Sistemas operacionais - UNIVESPTV](https://www.youtube.com/watch?v=CCHZ_06DoEA)
  
  <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>  
  Análise Forense do Sistema Operacional Windows
  
  * Conteúdo:
- 
+   * [Análise Forense no Windows](https://blog.ipog.edu.br/tecnologia/analise-forense-do-sistema-operacional-windows/)
+	* [Forense em Windows: características, ferramentas e desafios](https://memoria.rnp.br/noticias/imprensa/2005/not-imp-050719.html)
  * Livros:
  
  * Cursos:
@@ -213,9 +217,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Análise Forense do Sistema Operacional LINUX
  
  * Conteúdo:
- 
+   * [Top 4 Sistemas Operacionais Forenses](https://www.tiforense.com.br/top-4-sistemas-operacionais-forenses/)
  * Livros:
- 
+   * [Análise Forense em sistemas GNU/Linux](http://www.ravel.ufrj.br/sites/ravel.ufrj.br/files/publicacoes/projetosfinais/pf_fred_analiseforense_2005-12-09.pdf)
  * Cursos:
  
  
@@ -243,7 +247,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Processamento Forense de Imagens
  
  * Conteúdo:
- 
+   * [FTK](https://accessdata.com/products-services/forensic-toolkit-ftk)
  * Livros:
  
  * Cursos:
