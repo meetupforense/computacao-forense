@@ -312,19 +312,19 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  > .
  
  
- <h3 id="EmpresasPrivadas"> EMPRESAS PRIVADAS ()</h3> 
+ <h3 id="EmpresasPrivadas"> EMPRESAS PRIVADAS</h3> 
  > Lista de empresas que contratam e podemos oferecer serviços de perícia
  
  
- <h3 id="EmpresasPublicas"> EMPRESAS PÚBLICAS ()</h3> 
+ <h3 id="EmpresasPublicas"> EMPRESAS PÚBLICAS</h3> 
  > Lista de empresas que contratam e podemos oferecer serviços de perícia
  
  
- <h3 id="ListaDePeritos"> LISTA DE PERITOS ()</h3> 
+ <h3 id="ListaDePeritos"> LISTA DE PERITOS</h3> 
  > nome, cidade/estado, url currículo, breve de atuação
  
  
- <h3 id="PrincipasiNomes"> PRINCIPAIS NOMES DA FORENSE NO BRASIL ()</h3> 
+ <h3 id="PrincipasiNomes"> PRINCIPAIS NOMES DA FORENSE NO BRASIL</h3> 
  > nome, url currículo, breve de atuação
  
  
@@ -333,6 +333,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  
  <h3 id="EmpresasPrivadas">EMPRESAS PRIVADAS</h3> 
- > Lista de empresas que contratam e podemos oferecer serviços de perícia
+ Lista de empresas que contratam e podemos oferecer serviços de perícia
  
 ---------------------------------------------------------------------
