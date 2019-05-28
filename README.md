@@ -185,7 +185,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  
  <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>  
- > .
+ Análise Forense do Sistema Operacional Windows
  
  * Conteúdo:
  
