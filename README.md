@@ -157,10 +157,14 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  * Conteúdo:
  
-   * sdsds
+   * [Crimes cibernéticos e invasão de privacidade à luz da lei Carolina Dieckmann](https://jus.com.br/artigos/61325/crimes-ciberneticos-e-invasao-de-privacidade-a-luz-da-lei-carolina-dieckmann)
  
  
  * Livros:
+ 
+   * [Manual de Crimes Informáticos](https://www.editoradodireito.com.br/manual-de-crimes-informaticos/p)
+   
+   * [Marco Civil da Internet – Comentários À Lei n. 12.965/14](https://www.editoradodireito.com.br/marco-civil-da-internet--comentarios-a-lei-n--12-965--de-23-de-abril-de-2014/p)   
  
  * Cursos:
  
