@@ -310,6 +310,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  <h3 id="Eventos"> Eventos</h3>
  Lista de Eventos Online, Prensencial, Webinars e outros...
  
+   * [InterFORENSICS](http://www.interforensics.com/)
+   * [.](#)   
+ 
  
  <h3 id="Videos"> Vídeos</h3>
  Lista de Vídeos
