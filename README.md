@@ -298,6 +298,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  <h3 id="Sites"> Sites</h3>
  Lista de Sites
  
+   * [Segurança Legal](https://www.segurancalegal.com/)
+ 
  
  <h3 id="Eventos"> Eventos</h3>
  Lista de Eventos Online, Prensencial, Webinars e outros...
