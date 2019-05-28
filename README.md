@@ -99,66 +99,173 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 > Conteúdos legais para estudar para computação forense:
 
    1) [Aspectos Legais de Computação Forense](#AspectosLegaisdeComputacaoForense)
+      > 
 
    2) [Criminalística e Computação Forense](#CriminalisticaeComputacaoForense)
+      > 
 
    3) [Tópicos em Sistemas Operacionais](#TopicosemSistemasOperacionais)
+      > 
 
    4) [Análise Forense do Sistema Operacional Windows](#AnaliseForensedoSistemaOperacionalWindows)
+      > 
 
    5) [Análise de Tráfego de Pacotes](#AnalisedeTrafegodePacotes)
+      > 
 
    6) [Análise Forense do Sistema Operacional LINUX](#AnaliseForensedoSistemaOperacionalLINUX)
+      > 
 
    7) [Análise de Mídias Utilizando Ferramenta Forense FTK](#AnalisedeMidiasUtilizandoFerramentaForenseFTK)
+      > 
 
    8) [Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager](#AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager)
+      > 
 
    9) [Processamento Forense de Imagens](#ProcessamentoForensedeImagens)
+      > 
 
    10) [Criptografia e Criptoanálise](#CriptografiaeCriptoanalise)
+       > 
 
    11) [Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel](#AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel)
+       >  
 
    12) [Análise de Local na Rede Mundial](#AnalisedeLocalnaRedeMundial)
+       > 
 
    13) [Análise de Malware](#AnalisedeMalware)
+       > 
 
    14) [Engenharia Reversa](#EngenhariaReversa)
+       > 
    
-   *  [Sites, Podcasts, Webinars, Vídeos e Cursos](#sitesPodcastWebnarsVideosECursos)
+       [Sites](#Sites)
+   
+       [Podcasts](#Podcasts)
+   
+       [Eventos](#Eventos)Eventos (Online, Prensencial, Webinars)
+       > Online, Prensencial, Webinars
+   
+       [Videos](#Videos)
+       > 
+   
+       [Cursos](#Cursos)
+       > 
+   
+       [Noticias](#Noticias)
+       > 
+             
+   
+## EMPRESAS PRIVADAS
+> Lista de empresas que contratam e podemos oferecer serviços de perícia:   
+   
+## EMPRESAS PÚBLICAS
+> Lista de empresas que contratam e podemos oferecer serviços de perícia: 
+
+## LISTA DE PERITOS
+> nome, cidade/estado, url currículo, breve de atuação:
+
+## PRINCIPAIS NOMES DA FORENSE NO BRASIL
+> nome, url currículo, breve de atuação:
+
+## COLABORADORES
+> Pessoas que contribuem e participam do projeto ativamente:
+   
+   
 ---------------------------------------------------
 
 
  <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="CriminalisticaeComputacaoForense">2) Criminalística e Computação Forense</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos** 
+ 
  <h3 id="TopicosemSistemasOperacionais">3) Tópicos em Sistemas Operacionais</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos** 
+ 
  <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeTrafegodePacotes">5) Análise de Tráfego de Pacotes</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnaliseForensedoSistemaOperacionalLINUX">6) Análise Forense do Sistema Operacional LINUX</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeMidiasUtilizandoFerramentaForenseFTK">7) Análise de Mídias Utilizando Ferramenta Forense FTK</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager">8) Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="ProcessamentoForensedeImagens">9) Processamento Forense de Imagens</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="CriptografiaeCriptoanalise">10) Criptografia e Criptoanálise</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel">11) Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeLocalnaRedeMundial">12) Análise de Local na Rede Mundial</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="AnalisedeMalware">13) Análise de Malware</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
  <h3 id="EngenhariaReversa">14) Engenharia Reversa</h3>
+ * **Conteúdo**
+ * **Livros**
+ * **Cursos**
+ 
+ <h3 id="Sites"> Sites</h3> 
+ 
+ <h3 id="Eventos"> Eventos (Online, Prensencial, Webinars)</h3> 
+ 
+ <h3 id="Videos"> Vídeos</h3> 
+ 
+ <h3 id="Cursos"> Cursos</h3> 
+ 
+ <h3 id="Noticias"> Notícias</h3> 
+ 
+ <h3 id="EmpresasPrivadas"> EMPRESAS PRIVADAS (Lista de empresas que contratam e podemos oferecer serviços de perícia)</h3>
+ 
+ <h3 id="EmpresasPublicas"> EMPRESAS PÚBLICAS (Lista de empresas que contratam e podemos oferecer serviços de perícia)</h3>
+ 
+ <h3 id="ListaDePeritos"> LISTA DE PERITOS (nome, cidade/estado, url currículo, breve de atuação)</h3>
+ 
+ <h3 id="PrincipasiNomes"> PRINCIPAIS NOMES DA FORENSE NO BRASIL (nome, url currículo, breve de atuação)</h3>
+ 
+ <h3 id="Colaboradores"> COLABORADORES (Pessoas que contribuem e participam do projeto ativamente)</h3>
+ 
+ <h3 id="EmpresasPrivadas">EMPRESAS PRIVADAS (Lista de empresas que contratam e podemos oferecer serviços de perícia)</h3>
  
 ---------------------------------------------------------------------
-## 
-
-<h3 id="sitesPodcastWebnarsVideosECursos">Sites, Podcasts, Webinars, Vídeos e Cursos</h3>
-* **Sites**
-
-* **Podcasts**
-
-	* [Segurança Legal](https://www.segurancalegal.com/)
-
-* **Webinars**
-
-* **Vídeos**
-
-* **Cursos**
-
-------------------------------------------------------------------------
