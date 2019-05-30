@@ -23,6 +23,8 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 
 * **Como posso ser um Perito?** O perito judicial é chamado para esclarecer dúvidas técnicas e científica de processos judiciais, através dos conhecimentos que obteve na faculdade. O laudo que escreve será uma prova no processo. O perito é um auxiliar de Justiça, atuando como se fosse um profissional liberal, sem ter vínculo empregatício com a mesma. Para desempenhar a atividade, não se necessita de concurso, curso, estar cadastrado em órgão oficial, pertencer a uma entidade de peritos, ter carteira de perito ou pós-graduação, bastando apenas curso superior na área em que transcorrer a perícia (engenheiros fazem perícias de engenharia, médicos de medicina etc.). [Mais informações](https://www.manualdepericias.com.br/quero-ser-perito/)
 
+* **O que é uma Evidência digital?** Evidência digital ou evidência eletrônica é uma informação de valor probatório armazenada ou transmitida em formato digital e que pode ser utilizada em um processo judicial, a evidência digital pode estar em vários formatos diferentes: e-mail, fotografias, vídeo, áudio, páginas web, tráfego de dados brutos, dentre outros. [Mais informações](https://pt.wikipedia.org/wiki/Evid%C3%AAncia_digital)
+
 * **Outras questões...** 
 
 ```
