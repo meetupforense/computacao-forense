@@ -309,59 +309,73 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  
  <h3 id="Sites"> Sites</h3>
+ 
  Lista de Sites
  
    * [Segurança Legal](https://www.segurancalegal.com/)
+   
    * [TI Forense](https://www.tiforense.com.br/)
    
    
    
  <h3 id="Podcasts"> Podcasts</h3>
+ 
  Lista de Podcasts 
   
    * [Segurança Legal](https://www.segurancalegal.com/)
    
    
  <h3 id="Eventos"> Eventos</h3>
+ 
  Lista de Eventos Online, Prensencial, Webinars e outros...
  
    * [InterFORENSICS](http://www.interforensics.com/)
+   
    * [.](#)   
  
  
  <h3 id="Videos"> Vídeos</h3>
+ 
  Lista de Vídeos
  
  
  <h3 id="Cursos"> Cursos</h3>
+ 
  Lista de Cursos Online e Presenciais
  
  
  <h3 id="Noticias"> Notícias</h3>
+ 
  Lista de Notícias
  
  
  <h3 id="EmpresasPrivadas"> EMPRESAS PRIVADAS</h3>
+ 
  Lista de empresas que contratam e podemos oferecer serviços de perícia
  
  
  <h3 id="EmpresasPublicas"> EMPRESAS PÚBLICAS</h3>
+ 
  Lista de empresas que contratam e podemos oferecer serviços de perícia
  
  
  <h3 id="ListaDePeritos"> LISTA DE PERITOS</h3>
+ 
  nome, cidade/estado, url currículo, breve de atuação
  
  
  <h3 id="PrincipasiNomes"> PRINCIPAIS NOMES DA FORENSE NO BRASIL</h3>
+ 
  nome, url currículo, breve de atuação
  
  
  <h3 id="Colaboradores"> COLABORADORES</h3>
+ 
  Pessoas que contribuem e participam do projeto ativamente
  
  
  <h3 id="EmpresasPrivadas">EMPRESAS PRIVADAS</h3> 
+ 
  Lista de empresas que contratam e podemos oferecer serviços de perícia
  
 ---------------------------------------------------------------------
