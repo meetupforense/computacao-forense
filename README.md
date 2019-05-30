@@ -312,6 +312,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  Lista de Sites
  
    * [Segurança Legal](https://www.segurancalegal.com/)
+   * [TI Forense](https://www.tiforense.com.br/)
+   
    
    
  <h3 id="Podcasts"> Podcasts</h3>
