@@ -328,6 +328,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    
    * [TI Forense](https://www.tiforense.com.br/)
    
+   * [Academia de Forense Digital](https://www.academiadeforensedigital.com.br/)   
+   
    
    
  <h3 id="Podcasts"> Podcasts</h3>
