@@ -422,4 +422,10 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  Lista de desafios para serem analisados e encontrar a melhor solução
  
+ * 1> Um Investigador da Polícia Civil vem recebendo ligações ameaçadoras de números inibidos e aleatórios, devido a seriedade do problema procurou o Perito Forense em Informática Sherlock para ajudá-lo a identificar quem está fazendo estas ligações e conseguir encontrar os culpados. Em qual lei os criminosos podem ser autoados? Como o Perito Sherlock pode identificar quem está fazendo as ameaças por telefone?  
+
+Resp.: 
+
+
+ 
 ---------------------------------------------------------------------
