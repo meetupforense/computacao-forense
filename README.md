@@ -25,6 +25,8 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 
 * **O que é uma Evidência digital?** Evidência digital ou evidência eletrônica é uma informação de valor probatório armazenada ou transmitida em formato digital e que pode ser utilizada em um processo judicial, a evidência digital pode estar em vários formatos diferentes: e-mail, fotografias, vídeo, áudio, páginas web, tráfego de dados brutos, dentre outros. [Mais informações](https://pt.wikipedia.org/wiki/Evid%C3%AAncia_digital)
 
+* **O que é um Crime Digital?** São delitos cometidos no âmbito digital, muitas vezes são nomeados como: crimes cibernéticos, crimes digitais, crimes eletrônicos, crimes da informática, crimes cometidos na internet, cybercrimes, fraudes eletrônicas, delitos computacionais, dentre outros, mas todos eles referem-se, à prática delituosa cometida no meio digital. [Mais informações](https://victortateoki.jusbrasil.com.br/artigos/307254758/classificacao-dos-crimes-digitais)
+
 * **Outras questões...** 
 
 ```
