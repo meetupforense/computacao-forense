@@ -316,6 +316,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
    * [Tratado de Computação Forense](http://www.millenniumeditora.com.br/produtos_descricao.asp?codigo_produto=2920&so=Normal)
    
+   * [Desvendando a Computação Forense](https://novatec.com.br/livros/computacaoforense/)   
+   
  
  
  <h3 id="Sites"> Sites</h3>
