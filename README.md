@@ -87,6 +87,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 │   │	├── Conteúdo 
 │   │	├── Livros
 │   │	└── Cursos 
+│   ├── Livros
 │   ├── Sites
 │   ├── Podcasts
 │   ├── Eventos (Online, Prensencial, Webinars)
@@ -129,6 +130,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    13) [Análise de Malware](#AnalisedeMalware)
 
    14) [Engenharia Reversa](#EngenhariaReversa)
+   
+   *  [Livros](#Livros)   
    
    *  [Sites](#Sites)
    
@@ -306,6 +309,13 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  * Livros:
  
  * Cursos:
+ 
+ <h3 id="Livros"> Livros</h3>
+ 
+ Lista de Livros
+ 
+   * [Tratado de Computação Forense](http://www.millenniumeditora.com.br/produtos_descricao.asp?codigo_produto=2920&so=Normal)
+   
  
  
  <h3 id="Sites"> Sites</h3>
