@@ -331,7 +331,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    * [TI Forense](https://www.tiforense.com.br/)
    
    * [Academia de Forense Digital](https://www.academiadeforensedigital.com.br/)   
-   
+   * [Artigos Científicos e apresentações de Congresso de Forense [Inglês]](https://www.dfrws.org/archive/papers)
    
    
  <h3 id="Podcasts"> Podcasts</h3>
