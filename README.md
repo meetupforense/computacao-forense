@@ -435,6 +435,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
   * [UNIFOR (Universidade de Fortaleza)](https://www.unifor.br/web/pos-graduacao/especializacao-em-computacao-forense) 
  
+ 
  <h3 id="Noticias"> Notícias</h3>
  
  Lista de Notícias
@@ -463,11 +464,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  <h3 id="Colaboradores"> COLABORADORES</h3>
  
  Pessoas que contribuem e participam do projeto ativamente
- 
- 
- <h3 id="EmpresasPrivadas">EMPRESAS PRIVADAS</h3> 
- 
- Lista de empresas que contratam e podemos oferecer serviços de perícia
  
  
  <h3 id="DesafioForense">DESAFIO FORENSE</h3> 
