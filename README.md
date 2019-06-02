@@ -273,16 +273,17 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 	   
 	   
    * Análise Live Forensics:
+   
      Envolve a captura de dados enquanto o sistema operacional ainda esta ligado, este método é utilizado através de 2 passos.
 
-       1 DUMP DE MEMÓRIA 	
+        * 1 DUMP DE MEMÓRIA 	
 		  
-		  * [LiME](https://github.com/504ensicslabs/lime)
+            * [LiME](https://github.com/504ensicslabs/lime)
 	   
 	 
-       2 ANÁLISE DE MEMÓRIA
+        * 2 ANÁLISE DE MEMÓRIA
 	   
-		  * [VOLATILY](https://www.volatilityfoundation.org/25)	   
+		    * [VOLATILY](https://www.volatilityfoundation.org/25)	   
 	   
 	   
    * Leituras:	   		   
