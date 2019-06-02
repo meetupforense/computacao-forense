@@ -262,7 +262,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
    * Análise de Mídias:
 		   
-       * [IPED (Indexador e Processador de Evidências Digitais) link1](https://github.com/lfcnassif/IPED)		
+       * [IPED (Indexador e Processador de Evidências Digitais)](https://github.com/lfcnassif/IPED)		
 		   
        * [AUTOPSY ](https://www.sleuthkit.org/autopsy/)
 	   
