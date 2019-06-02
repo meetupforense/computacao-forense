@@ -345,14 +345,15 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  ** Live Forensics
  
-   * [CAINE(Computer Aided INvestigative Environment)](https://www.caine-live.net/)
+   * [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
    
-   * [DEFT(Digital Evidence & Forensic Toolkit)](http://www.deftlinux.net/) 
+   * [DEFT (Digital Evidence & Forensic Toolkit)](http://www.deftlinux.net/) 
  
-   * [SANS DFIR(Digital Forensics & Incident Response)](http://www.deftlinux.net/) 
+   * [SANS DFIR (Digital Forensics & Incident Response)](http://www.deftlinux.net/) 
  
-   * [Kali Linux](https://www.kali.org/)
-   
+   * [KALI LINUX](https://www.kali.org/)
+ 
+   * [SANS DFIR (SANS Digital Forensics and Incident Response)](https://digital-forensics.sans.org/community/downloads)
 
 
  <h3 id="Livros"> Livros</h3>
