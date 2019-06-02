@@ -89,6 +89,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 │   │	├── Conteúdo 
 │   │	├── Livros
 │   │	└── Cursos 
+│   ├── Ferramentas
 │   ├── Livros
 │   ├── Sites
 │   ├── Podcasts
@@ -133,6 +134,8 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    13) [Análise de Malware](#AnalisedeMalware)
 
    14) [Engenharia Reversa](#EngenhariaReversa)
+   
+   *  [Ferramentas](#Ferramentas)    
    
    *  [Livros](#Livros)   
    
@@ -334,7 +337,24 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  * Livros:
  
  * Cursos:
+
+
+ <h3 id="Ferramentas"> Ferramentas</h3>
  
+ Lista de Ferramentas utilizadas na Perícia
+ 
+ ** Live Forensics
+ 
+   * [CAINE(Computer Aided INvestigative Environment)](https://www.caine-live.net/)
+   
+   * [DEFT(Digital Evidence & Forensic Toolkit)](http://www.deftlinux.net/) 
+ 
+   * [SANS DFIR(Digital Forensics & Incident Response)](http://www.deftlinux.net/) 
+ 
+   * [Kali Linux](https://www.kali.org/)
+   
+
+
  <h3 id="Livros"> Livros</h3>
  
  Lista de Livros
