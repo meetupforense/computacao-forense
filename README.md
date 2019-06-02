@@ -272,6 +272,19 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
        * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/)   
 	   
 	   
+   * Análise Live Forensics:
+     Envolve a captura de dados enquanto o sistema operacional ainda esta ligado, este método é utilizado através de 2 passos.
+
+       1 DUMP DE MEMÓRIA 	
+		  
+		  * [LiME](https://github.com/504ensicslabs/lime)
+	   
+	 
+       2 ANÁLISE DE MEMÓRIA
+	   
+		  * [VOLATILY](https://www.volatilityfoundation.org/25)	   
+	   
+	   
    * Leituras:	   		   
  
        * [Top 4 Sistemas Operacionais Forenses](https://www.tiforense.com.br/top-4-sistemas-operacionais-forenses/)
