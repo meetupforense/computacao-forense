@@ -264,7 +264,12 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 		   
        * [IPED (Indexador e Processador de Evidências Digitais)](https://github.com/lfcnassif/IPED)		
 		   
-       * [AUTOPSY ](https://www.sleuthkit.org/autopsy/)
+       * [AUTOPSY](https://www.sleuthkit.org/autopsy/)
+	   
+	   
+   * Análise de Arquivos:	
+
+       * [The Sleuth Kit](https://www.sleuthkit.org/sleuthkit/)   
 	   
 	   
    * Leituras:	   		   
