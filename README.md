@@ -89,7 +89,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 │   │	├── Conteúdo 
 │   │	├── Livros
 │   │	└── Cursos 
-│   ├── Ferramentas
 │   ├── Livros
 │   ├── Sites
 │   ├── Podcasts
@@ -133,9 +132,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 
    13) [Análise de Malware](#AnalisedeMalware)
 
-   14) [Engenharia Reversa](#EngenhariaReversa)
-   
-   *  [Ferramentas](#Ferramentas)    
+   14) [Engenharia Reversa](#EngenhariaReversa)   
    
    *  [Livros](#Livros)   
    
@@ -248,6 +245,21 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  * Conteúdo:
  
+   * [Distribuições Linux Forense] 
+   
+		   * [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
+   
+		   * [DEFT (Digital Evidence & Forensic Toolkit)](http://www.deftlinux.net/) 
+		 
+		   * [SANS DFIR (Digital Forensics and Incident Response)](https://digital-forensics.sans.org/) 
+		 
+		   * [KALI LINUX](https://www.kali.org/) 
+		 
+		   * [PARROT](https://www.parrotsec.org/) 
+		 
+		   * [PADALIN](https://sumuri.com/software/paladin/)
+		   
+ 
    * [Top 4 Sistemas Operacionais Forenses](https://www.tiforense.com.br/top-4-sistemas-operacionais-forenses/)
    
  * Livros:
@@ -337,23 +349,6 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  * Livros:
  
  * Cursos:
-
-
- <h3 id="Ferramentas"> Ferramentas</h3>
- 
- Lista de Ferramentas utilizadas na Perícia
- 
- ** Live Forensics: Os Live Forensics são distribuições de sistemas operacionais que funcionam sem precisar serem instalados, contam com diversas ferramentas que ajudam os peritos nas suas análises forenses.
- 
-   * [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
-   
-   * [DEFT (Digital Evidence & Forensic Toolkit)](http://www.deftlinux.net/) 
- 
-   * [SANS DFIR (Digital Forensics & Incident Response)](http://www.deftlinux.net/) 
- 
-   * [KALI LINUX](https://www.kali.org/)
- 
-   * [SANS DFIR (SANS Digital Forensics and Incident Response)](https://digital-forensics.sans.org/community/downloads)
 
 
  <h3 id="Livros"> Livros</h3>
