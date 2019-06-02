@@ -343,7 +343,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  Lista de Ferramentas utilizadas na Perícia
  
- ** Live Forensics
+ ** Live Forensics: Os Live Forensics são distribuições de sistemas operacionais que funcionam sem precisar serem instalados, contam com diversas ferramentas para ajudam o perito nas suas análises forenses.
  
    * [CAINE (Computer Aided INvestigative Environment)](https://www.caine-live.net/)
    
