@@ -429,12 +429,11 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  Lista de Cursos Online e Presenciais
  
-    * Presenciais:	
+* Presenciais:	
 		  
-        * [IPOG (Computação Forense & Perícia Digital)](https://www.ipog.edu.br/curso/tecnologia-da-informacao/computacao-forense--pericia-digital/)
+* [IPOG (Computação Forense & Perícia Digital)](https://www.ipog.edu.br/curso/tecnologia-da-informacao/computacao-forense--pericia-digital/)
  
-        * [UNIFOR (Universidade de Fortaleza)](https://www.unifor.br/web/pos-graduacao/especializacao-em-computacao-forense) 
- 
+* [UNIFOR (Universidade de Fortaleza)](https://www.unifor.br/web/pos-graduacao/especializacao-em-computacao-forense) 
  
  <h3 id="Noticias"> Notícias</h3>
  
