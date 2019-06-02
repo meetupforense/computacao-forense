@@ -258,9 +258,21 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
        * [PARROT](https://www.parrotsec.org/) 
 		 
        * [PADALIN](https://sumuri.com/software/paladin/)
-		   
  
-   * [Top 4 Sistemas Operacionais Forenses](https://www.tiforense.com.br/top-4-sistemas-operacionais-forenses/)
+ 
+   * Análise de Mídias:
+		   
+       * [IPED (Indexador e Processador de Evidências Digitais) link1](https://github.com/lfcnassif/IPED)		
+		   
+       * [AUTOPSY ()](https://www.sleuthkit.org/autopsy/)
+	   
+	   
+   * Leituras:	   		   
+ 
+       * [Top 4 Sistemas Operacionais Forenses](https://www.tiforense.com.br/top-4-sistemas-operacionais-forenses/)
+	   
+	   * [IPED – Indexador e Processador de Evidências Digitais – DPF](https://www.tiforense.com.br/iped-indexador-e-processador-de-evidencias-digitais-dpf/)
+	   
    
  * Livros:
  
