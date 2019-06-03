@@ -27,6 +27,9 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 
 * **O que é um Crime Digital?** São delitos cometidos no âmbito digital, muitas vezes são nomeados como: crimes cibernéticos, crimes digitais, crimes eletrônicos, crimes da informática, crimes cometidos na internet, cybercrimes, fraudes eletrônicas, delitos computacionais, dentre outros, mas todos eles referem-se, à prática delituosa cometida no meio digital. [Mais informações](https://victortateoki.jusbrasil.com.br/artigos/307254758/classificacao-dos-crimes-digitais)
 
+* **O que é uma Cópia ou Imagem Forense?** Cópia integral de uma mídia para outra ou cópia bit a bit de todas as áreas de um suporte de armazenamento. [Mais informações](https://qperito.wordpress.com/2013/11/06/queira-o-sr-perito-explicar-o-que-e-uma-copia-forense-2/)
+
+
 * **Outras questões...** 
 
 ```
@@ -315,6 +318,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  * Conteúdo:
  
+   * [Fazendo uma cópia ou imagem forense utilizando o Guymager no Linux CAINE](http://thiagophilipp.com.br/2018/06/fazendo-uma-copia-ou-imagem-forense-utilizando-o-guymager-no-linux-caine/)
+
+   
  * Livros:
  
  * Cursos:
