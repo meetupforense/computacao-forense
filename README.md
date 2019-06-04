@@ -462,7 +462,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  nome, cidade/estado, url currículo, breve de atuação
  
- [Ver lista de Peritos (clique aqui) ](https://github.com/meetupforense/computacao-forense/blob/master/lista-de-peritos.md)
+ [Lista de Peritos (clique aqui)](https://github.com/meetupforense/computacao-forense/blob/master/lista-de-peritos.md)
  
  
  
