@@ -7,6 +7,6 @@ Cadastrar as informações por: Estado/Cidade/Nome/Descrição/Url do Portfólio
 
 * PARÁ
 
-* BELÉM
+   * BELÉM
 
-* [THIAGO PHILIPP()](http://thiagohilipp.com.br)
+      * [THIAGO PHILIPP()](http://thiagohilipp.com.br)
