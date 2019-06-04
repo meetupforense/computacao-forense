@@ -4,9 +4,6 @@ Vamos fazer uma lista de toda comunidade de Peritos em Computação Forense e Pe
 
 Cadastrar as informações por: Estado/Cidade/Nome/Descrição/Url do Portfólio
 
-
 * PARÁ
-
    * BELÉM
-
-      * [THIAGO PHILIPP()](http://thiagohilipp.com.br)
+      * [THIAGO PHILIPP(Analista e Perito Forense em Informática)](http://thiagohilipp.com.br)
