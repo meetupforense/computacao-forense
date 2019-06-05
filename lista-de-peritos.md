@@ -11,6 +11,11 @@ REGIÃO NORTE
 * ACRE
 
 * AMAPÁ
+    
+    * MACAPÁ
+
+	     * [Luiz Hamilton Silva (Analista de Segurança Computacional, Computação Forense, Perícias Digitais) ](https://www.linkedin.com/in/luiz-hamilton-roberto-da-silva-44529528/)
+
 
 * AMAZONAS
 
