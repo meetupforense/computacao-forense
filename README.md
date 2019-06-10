@@ -489,7 +489,7 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
       Parágrafo único - Somente se procede mediante representação.
 
 
- * 2> Um adolescente viu suas fotos sendo publicadas em uma rede social com mensagens que incitam o ódio e a violência contra agentes da segurança pública. Devido a grande repercusão do caso e o medo de sofrer retaliações, a família do jovem pediu para dar entrevista em uma rede local de televisão para explicar o acontecido. A família do jovem junto com seu advogado contrataram o Perito Sherlock para encontrar provas que comprovem a inocência do adolenceste. Levando em consideração que as publicações das redes sociais foram apagadas, como o Perito pode ajudar nesta investigação? Quais os passos devem ser feitos para comprovar a inocência do adolescente e encontrar o verdadeiro culpado? Qual lei os culpados podem ser autuados?
+ * 2> Um adolescente viu suas fotos sendo publicadas em uma rede social com mensagens que incitam o ódio e a violência contra agentes da segurança pública. Devido a grande repercusão do caso e o medo de sofrer retaliações, a família do jovem pediu para dar entrevista em uma rede local de televisão para explicar o acontecido. A família do jovem junto com seu advogado contrataram o Perito Sherlock para encontrar provas que comprovem a inocência do adolesceste. Levando em consideração que as publicações das redes sociais foram apagadas, como o Perito pode ajudar nesta investigação? Quais os passos devem ser feitos para comprovar a inocência do adolescente e encontrar o verdadeiro culpado? Qual lei os culpados podem ser autuados?
 
       Resp.: 
 
