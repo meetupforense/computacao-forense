@@ -11,13 +11,13 @@ Repositório para compartilhamento de informações, materiais, sites, cursos, v
 * **O que é a Computação Forense?** Computação forense (também conhecida como ciência forense computacional) é um ramo da ciência forense digital onde são examinadas as evidências encontradas em computadores e em mídias de armazenamento digital. O objetivo da computação forense é examinar a mídia digital de uma maneira forense, com o propósito de identificar, preservar, recuperar, analisar e apresentar fatos e opiniões sobre a informação digital.
 
 
-* **O que faz um Perito em Informática?** Importante na investigação de fatos passados utilizando conhecimentos de informática para buscar elucida-los acerca da sua materialidade e apurar a autoria de incidentes cometidos em ambientes computacionais e de uso da tecnologia. * [Mais informações](https://josemilagre.com.br/blog/2017/07/31/a-profissao-do-futuro-como-ser-um-perito-digital-ou-perito-em-informatica-e-iniciar-na-carreira-2017/)
+* **O que faz um Perito em Informática?** Importante na investigação de fatos passados utilizando conhecimentos de informática para buscar elucida-los acerca da sua materialidade e apurar a autoria de incidentes cometidos em ambientes computacionais e de uso da tecnologia.  [Mais informações](https://josemilagre.com.br/blog/2017/07/31/a-profissao-do-futuro-como-ser-um-perito-digital-ou-perito-em-informatica-e-iniciar-na-carreira-2017/)
 
 
 * **O que é um Perito Judicial?**  Trabalha nas varas cíveis das Justiça Estadual e Federal e nas varas do trabalho da Justiça do Trabalho sendo o especialista que opina sobre questões que lhe são submetidas pelas partes ou pelo juiz, a fim de esclarecer fatos que auxiliem o julgador a formar sua convicção. [Mais informações](https://www.apejesp.com.br/paginas.aspx?id=50) 
 
 
-* **O que é um Perito não oficial ou Ad Hoc?** Na falta de perito oficial, o que é comum dado a demanda, a perícia poderá ser realizada por dois peritos criminais do tipo ad hoc, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada à natureza da perícia. Os peritos não oficiais, cidadão comuns, ditos ad hoc, prestarão o compromisso de bem e fielmente desempenharem o encargo, nomeados pelo juiz criminal, promotor de justiça ou delegado de polícia. [Mais informações](https://roteirodepericias.com.br/2018/11/23/pericia-criminal-realizada-por-perito-nao-oficial-perito-ad-hoc/)
+* **O que é um Perito não oficial ou Ad Hoc?** Na falta de perito oficial, o que é comum dado a demanda, a perícia poderá ser realizada por dois peritos criminais do tipo ad hoc, portadoras de diploma de curso superior, preferencialmente na área específica, dentre as que tiverem habilitação técnica relacionada à natureza da perícia. Os peritos não oficiais, cidadão comuns, ditos ad hoc, prestarão o compromisso de bem e fielmente desempenharem o encargo, nomeados pelo juiz criminal, promotor de justiça ou delegado de polícia.  [Mais informações](https://roteirodepericias.com.br/2018/11/23/pericia-criminal-realizada-por-perito-nao-oficial-perito-ad-hoc/)
 
 * **Quem pode ser um Perito?** Profissionais liberais, os aposentados e os empregados de empresas em geral, desde que suas profissões sejam de curso superior na área de perícia a ser realizada, como as dos: administradores, contadores, economistas, engenheiros, médicos, profissionais ligados ao meio ambiente, engenheiro e médico do trabalho, corretores de imóveis, fisioterapeutas, odontólogos, profissionais da área de informática, químicos, agrônomos, biólogos, arquitetos, entre outras. [Mais informações](https://www.manualdepericias.com.br/quero-mais-informacoes/quem-pode-ser-perito/)
 
@@ -168,8 +168,21 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
 ---------------------------------------------------
 
 
- <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>  
- Aspectos Legais de Computação Forense
+ <h3 id="AspectosLegaisdeComputacaoForense">1) Aspectos Legais de Computação Forense</h3>
+    As leis são grande aliadas para os profissionais de computação forense para embasar
+ <h3 id="CriminalisticaeComputacaoForense">2) Criminalística e Computação Forense</h3>
+ <h3 id="TopicosemSistemasOperacionais">3) Tópicos em Sistemas Operacionais</h3>
+ <h3 id="AnaliseForensedoSistemaOperacionalWindows">4) Análise Forense do Sistema Operacional Windows</h3>
+ <h3 id="AnalisedeTrafegodePacotes">5) Análise de Tráfego de Pacotes</h3>
+ <h3 id="AnaliseForensedoSistemaOperacionalLINUX">6) Análise Forense do Sistema Operacional LINUX</h3>
+ <h3 id="AnalisedeMidiasUtilizandoFerramentaForenseFTK">7) Análise de Mídias Utilizando Ferramenta Forense FTK</h3>
+ <h3 id="AnalisedeMidiasUtilizandoSoftwareLivreCAINEIPEDAutopsyeFTKImager">8) Análise de Mídias Utilizando Software Livre: CAINE, IPED, Autopsy e FTK Imager</h3>
+ <h3 id="ProcessamentoForensedeImagens">9) Processamento Forense de Imagens</h3>
+ <h3 id="CriptografiaeCriptoanalise">10) Criptografia e Criptoanálise</h3>
+ <h3 id="AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel">11) Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel</h3>
+ <h3 id="AnalisedeLocalnaRedeMundial">12) Análise de Local na Rede Mundial</h3>
+ <h3 id="AnalisedeMalware">13) Análise de Malware</h3>
+ <h3 id="EngenhariaReversa">14) Engenharia Reversa</h3>
  
  * Conteúdo:
  
@@ -350,6 +363,9 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
  
  <h3 id="AnalisedeEquipamentosComputacionaisPortateisedeTelefoniaMovel">11) Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel</h3>  
  Análise de Equipamentos Computacionais Portáteis e de Telefonia Móvel
+
+ * Ferramentas:
+   * [Ferramenta forense de Geração de relatório para dispositivos móveis](http://www.ic.pr.gov.br/modules/conteudo/conteudo.php?conteudo=54)
  
  * Conteúdo:
  
@@ -406,10 +422,59 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    
    * [TI Forense](https://www.tiforense.com.br/)
    
-   * [Academia de Forense Digital](https://www.academiadeforensedigital.com.br/)   
+   * [Academia de Forense Digital](https://www.academiadeforensedigital.com.br/) 
+
    * [Artigos Científicos e apresentações de Congresso de Forense [Inglês]](https://www.dfrws.org/archive/papers)
    
+   * [Digital Sec - Vídeos prático de Forense no Youtube](https://www.youtube.com/channel/UCYT-VUmY3RgKjnf6h5j0UtA)
+
+   * [Github de ferramentas de Forense [Inglês]](https://github.com/cugu/awesome-forensics)
+
+   * [Overview de ferramenta forense [Inglês]](https://forensicswiki.org/wiki/Tools)
    
+   * [Catálogo de Ferramentas Forenses [Inglês]](https://toolcatalog.nist.gov/search/index.php?ff_id=20)
+
+   * [Wiki de Forense Digital [Inglês]](https://forensicswiki.org/wiki/Main_Page)
+
+   * [Perito em Computação, por onde começar?](http://leforense.com.br/perito-em-computacao-por-onde-comecar/)
+
+   * [Projeto CFSI – Computação Forense e Segurança da Informação ](http://www.projetocfsi.com.br/leis-e-normas/)
+
+   * [Casos para estudo - Perícia Forense](http://eriberto.pro.br/wiki/index.php?title=Per%C3%ADcia_forense_computacional)
+    
+   * [SegInfo – Portal, Podcast e Evento sobre Segurança da Informação](https://seginfo.com.br/)
+
+   * Lista de ferramentas especiais de busca:
+      * [Shodan](https://www.shodan.io)
+      O Shodan é o primeiro mecanismo de busca do mundo para dispositivos conectados à Internet.
+      * [Censys](http://censys.io)
+      Encontre e monitore todos os servidores na Internet
+      * [FOFA](https://fofa.so)
+      FOFA é um motor de busca do ciberespaço
+      * [BinaryEdge](https://app.binaryedge.io)
+      Examine todo o espaço da Internet e crie fluxos e relatórios de inteligência de ameaças em tempo real que mostram o que está exposto na Internet
+      * [ONYPHE](https://www.onyphe.io)
+      O ONYPHE é um buscador de dados de inteligência sobre ameaças cibernéticas coletados pelo rastreamento de várias fontes disponíveis na Internet
+      * [GhostProject](https://ghostproject.fr)
+      Buscador de dados vazados
+      * [Wigle](https://wigle.net/index)
+      Localização e informações de redes wifi pelo mundo
+      * [Hunter](https://hunter.io)
+      Hunter lista todas as pessoas que trabalham em uma empresa com seus nomes e endereços de e-mail encontrados na web. É a ferramenta de busca de e-mail mais poderosa já criada.
+      * [Thingful](https://www.thingful.net)
+      Thingful é um mecanismo de busca para a Internet das Coisas, permitindo descoberta segura e interoperabilidade entre milhões de objetos públicos e privados conectados ao redor do mundo.
+      * [Reposify](https://www.reposify.com)
+      O repositório de risco cibernético do mundo. Eles mapeam o risco cibernético diariamente de qualquer IP e organização no mundo.
+      * [ZoomEye](https://www.zoomeye.org)
+      O ZoomEye é um mecanismo de pesquisa para o ciberespaço que permite ao usuário encontrar componentes de rede específicos (ip, serviços etc.).
+      * [NETDB](https://www.netdb.io)
+      O primeiro motor de pesquisa agregador de Internet das Coisas. Ele conecta todas as fontes de pesquisa IoT, para que você possa coletar todas as informações possíveis, criadas para pesquisas, chamadas de documentos e empresas de segurança.
+
+   * [Projeto CFSI – Computação Forense e Segurança da Informação ](http://www.projetocfsi.com.br/leis-e-normas/)
+
+   * [Projeto CFSI – Computação Forense e Segurança da Informação ](http://www.projetocfsi.com.br/leis-e-normas/)
+
+
  <h3 id="Podcasts"> Podcasts</h3>
  
  Lista de Podcasts 
