@@ -445,29 +445,29 @@ COMPUTAÇÃO FORENSE E PERÍCIA DIGITAL
    * [SegInfo – Portal, Podcast e Evento sobre Segurança da Informação](https://seginfo.com.br/)
 
    * Lista de ferramentas especiais de busca:
-      * [Shodan](https://www.shodan.io)
+      * [Shodan](https://www.shodan.io):
       O Shodan é o primeiro mecanismo de busca do mundo para dispositivos conectados à Internet.
-      * [Censys](http://censys.io)
+      * [Censys](http://censys.io):
       Encontre e monitore todos os servidores na Internet
-      * [FOFA](https://fofa.so)
+      * [FOFA](https://fofa.so):
       FOFA é um motor de busca do ciberespaço
-      * [BinaryEdge](https://app.binaryedge.io)
+      * [BinaryEdge](https://app.binaryedge.io):
       Examine todo o espaço da Internet e crie fluxos e relatórios de inteligência de ameaças em tempo real que mostram o que está exposto na Internet
-      * [ONYPHE](https://www.onyphe.io)
+      * [ONYPHE](https://www.onyphe.io):
       O ONYPHE é um buscador de dados de inteligência sobre ameaças cibernéticas coletados pelo rastreamento de várias fontes disponíveis na Internet
-      * [GhostProject](https://ghostproject.fr)
+      * [GhostProject](https://ghostproject.fr):
       Buscador de dados vazados
-      * [Wigle](https://wigle.net/index)
+      * [Wigle](https://wigle.net/index):
       Localização e informações de redes wifi pelo mundo
-      * [Hunter](https://hunter.io)
+      * [Hunter](https://hunter.io):
       Hunter lista todas as pessoas que trabalham em uma empresa com seus nomes e endereços de e-mail encontrados na web. É a ferramenta de busca de e-mail mais poderosa já criada.
-      * [Thingful](https://www.thingful.net)
+      * [Thingful](https://www.thingful.net):
       Thingful é um mecanismo de busca para a Internet das Coisas, permitindo descoberta segura e interoperabilidade entre milhões de objetos públicos e privados conectados ao redor do mundo.
-      * [Reposify](https://www.reposify.com)
+      * [Reposify](https://www.reposify.com):
       O repositório de risco cibernético do mundo. Eles mapeam o risco cibernético diariamente de qualquer IP e organização no mundo.
-      * [ZoomEye](https://www.zoomeye.org)
+      * [ZoomEye](https://www.zoomeye.org):
       O ZoomEye é um mecanismo de pesquisa para o ciberespaço que permite ao usuário encontrar componentes de rede específicos (ip, serviços etc.).
-      * [NETDB](https://www.netdb.io)
+      * [NETDB](https://www.netdb.io):
       O primeiro motor de pesquisa agregador de Internet das Coisas. Ele conecta todas as fontes de pesquisa IoT, para que você possa coletar todas as informações possíveis, criadas para pesquisas, chamadas de documentos e empresas de segurança.
 
    * [Projeto CFSI – Computação Forense e Segurança da Informação ](http://www.projetocfsi.com.br/leis-e-normas/)
