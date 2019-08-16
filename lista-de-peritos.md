@@ -19,6 +19,8 @@ REGIÃO NORTE
 
     * MACAPÁ
 
+	     * [Adilson de Miranda (Perícia Forense, Adminstração de Redes e Segurança, Pedagogo) ](https://www.linkedin.com/in/adilsonmsjunior/)
+
 	     * [Marcio Bezerra da Silva (Análises em Geral) ](www.amapadigital.net)
 		 
 		 
@@ -30,6 +32,7 @@ REGIÃO NORTE
     * BELÉM
 
 	     * [Deivison P. Franco (Computação Forense, Perícias Audio Visuais, Documentoscopia e Grafoscopia, Análise de Vulnerabilidades, Testes de Intrusão e Segurança de Informações) ](https://www.linkedin.com/in/deivison-franco)	
+	     * [Ézyo Lamarca (Forense Computacional Corporativa) ](http://www.digitalsec.com.br)
 
 	     * [Flávio Ramon A. de Souza (Computação Forense, Perícia Audio Visual, Perícia Dispositivo Móveis, Perícia em Sistema Linux, Documentoscopia e Grafoscopia. ) ](https://br.linkedin.com/in/flavioramon)
 		 		 
@@ -65,7 +68,13 @@ REGIÃO NORDESTE
 
     * RIO REAL			 
 		 
-	     * [Nick Bethencourt (Gestor de TI e Perito Computacional Forense) ](https://br.linkedin.com/in/nickbethencourt)		 
+	     * [Nick Bethencourt (Gestor de TI e Perito Computacional Forense) ](https://br.linkedin.com/in/nickbethencourt)
+		 
+
+
+    * SALVADOR			 
+		 
+	     * [Milton Freitas (Computação Forense (como Perito Judicial, Ad-Hoc, Assistente Técnico ou Extrajudicial), Perícia e Investigação Digital, Analista de Segurança de TI e Analista de TIC/Infraestrutura) ](https://www.linkedin.com/in/mdpfreitas)		 
 	
 	
 
@@ -73,8 +82,20 @@ REGIÃO NORDESTE
 
     * FORTALEZA		 
 		 
-	     * [Emmanuel Noleto (Perícia forense) ](http://www.emmanuelnoleto.com.br)
+	     * [Emmanuel Noleto (Perícia forense) ](http://www.emmanuelnoleto.com.br)	 
 		 
+	     * [Mauricio Carlos (Informática Forense aplicada a Produção Antecipada de Provas e análises técnicas para respostas a quesitos) ](https://www.periciainfo.com.br)	 
+		 
+	     * [Mastroianni Rufino (Gestão de TI e Pericia Forense) ](http://lattes.cnpq.br/1813692220309624)
+
+    * IGUATU		 
+		 
+	     * [Alexandre Bezerra (Análise de Malware, Pericia em Linux, Pericia em Dispositivos Móveis) ](https://www.linkedin.com/in/alexandrebnascimento)
+
+    * JUAZEIRO DO NORTE		 
+		 
+	     * [Carlos Barreto (Perito, Analista e Professor) ](http://lattes.cnpq.br/0303093062241270)
+
 
 * MARANHÃO	
 
@@ -100,16 +121,19 @@ REGIÃO NORDESTE
 
     * ARACAJU		 
 		 
+	     * [Euler Amorim (Analista de Segurança da Informação e Perito Forense Computacional) ](https://www.linkedin.com/in/eulernetongt)		 
+		 
 	     * [Igor Porto (Computação Forense e perícia digital) ](https://www.linkedin.com/in/igor-cristiano-porto-633068187/)
-
 
 
 REGIÃO CENTRO-OESTE
 
 * GOIÁS
 
-    * GOIÂNIA		 
-		 
+    * GOIÂNIA
+
+	     * [Leandro Catini (Perícia Digital) ](https:www.linkedin.com/in/leandro-catini-726a5799/)		 
+
 	     * [Tulio Rosa (Perícia Digital) ](http://tuliorosa.com.br)
 
 		 
@@ -121,8 +145,9 @@ REGIÃO CENTRO-OESTE
 
     * BRASÍLIA		 
 		 
+	     * [Marcos Braga (Perito em Computação Forense e TI) ](https://www.linkedin.com/in/marcosaureliobraga)		 
+		 
 	     * [Rafael Ferraz (Pentester e Perito Forense) ](https://www.linkedin.com/in/rafael-ferraz-529b7a4a)
-
 
 
 REGIÃO SUDESTE
@@ -142,11 +167,15 @@ REGIÃO SUDESTE
 
 	     * [Daniela Martinez (Perícia Digital) ](https://br.linkedin.com/in/danielamartinez10)	
 		 
+	     * [Erico Manfredi (Anti forense, áudio e vídeo, entrevista e comportamento humano) ](https://www.linkedin.com/in/erico-campanha-manfredi-9492289/)	
+		 
 	     * [Edicleia Martins Reis Souza (Perícia Digital) ](https://www.linkedin.com/in/edicléia-martin)		 
 
 	     * [Guilherme Albanez Ascione (Computação Forense, Perito Forense, Cyber Security e Resposta a Incidentes) ](https://br.linkedin.com/in/guilhermealbanezascione)		 
 
 	     * [José Antônio Pena Numez (Windows, ERP, e Banco de Dados) ](http://peritodeinformatica.inf.br/)		 
+
+	     * [Ricardo Andrian Capozzi (Fraude e Crimes Cibernéticos, Desgravação de Áudios, Análise de Imagens, Registro de Ponto Eletrônico ) ](https://www.linkedin.com/in/ricardo-capozzi-b34215/)		 
 		 		 
 
 
@@ -158,11 +187,17 @@ REGIÃO SUDESTE
 
 * RIO DE JANEIRO
 
+    * DUQUE DE CAXIAS	
+
+	     * [Romulo Almeida (Forense Computacional) ](http://lattes.cnpq.br/7926829674907549)
+
     * RIO DE JANEIRO	
 
 	     * [Anderson Rodrigues (Pentest, Computacao Forense, Pericias Áudio, Vídeo, Imagem e Consultoria em Seguranca) ](https://www.peritoanderson.com.br)	
 
 	     * [Cristiana Maia (Compliance e Jurídico) ](https://linkedin.com/in/cristianamaia)
+		 
+	     * [Daniel Louzada (Perícia Forense) ](http://linkedin.com/in/daniellzd)
 		 
 	     * [Ygor Degani (Perito em Comutação Forense) ](https://www.linkedin.com/in/ygordeganibuitrago) 
 		 
